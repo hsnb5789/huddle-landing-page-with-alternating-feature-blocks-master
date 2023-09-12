@@ -380,6 +380,7 @@ ul>li>a:hover {
     }
 
     .container {
+        gap: 10rem;
         width: 100%;
     }
 
@@ -466,15 +467,17 @@ ul>li>a:hover {
     }
 
     .build h1 {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .build {
+        width: 55%;
         top: -140px;
         height: 200px;
     }
 
     .bottomSection {
+        margin-top: 6rem;
         align-items: center;
         justify-content: space-around;
     }
