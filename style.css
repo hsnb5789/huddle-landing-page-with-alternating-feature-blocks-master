@@ -380,7 +380,7 @@ ul>li>a:hover {
     }
 
     .container {
-        gap: 10rem;
+        gap: 8rem;
         width: 100%;
     }
 
@@ -478,6 +478,7 @@ ul>li>a:hover {
 
     .bottomSection {
         margin-top: 6rem;
+        margin-bottom: 2rem;
         align-items: center;
         justify-content: space-around;
     }
@@ -497,7 +498,8 @@ ul>li>a:hover {
     .icon {
         margin-left: 2rem;
         margin-top: 3rem;
-        gap: 3rem;
+        margin-bottom: 2rem;
+        gap: 7rem;
     }
 
 }
